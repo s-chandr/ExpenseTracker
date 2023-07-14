@@ -1,3 +1,10 @@
+# ExpenseTracker
+Track your transactions and never run out of Money
+
+Used React Hooks & Context API to build a transaction tracker. 
+# Website Link:
+https://s-chandr.github.io/ExpenseTracker/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
